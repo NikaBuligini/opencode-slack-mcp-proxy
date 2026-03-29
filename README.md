@@ -10,7 +10,7 @@ Because of that mismatch, Slack MCP authentication fails in opencode unless the 
 
 ## Installation
 
-See `docs/installation.md` for setup, background-run instructions, Docker usage, verification, and troubleshooting.
+See [`docs/installation.md`](docs/installation.md) for setup, background-run instructions, Docker usage, verification, and troubleshooting.
 
 Useful commands:
 
